@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65fb3a124b2f02defa612444"
+  },
+  "name": "admin",
+  "email": "admin@walla.com",
+  "password": "$2b$10$UjsjM2bLLTgicHdrI.6wq.wfGGg/3DXMG/c5Vu4SCH1J6fOMlGJyW",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-03-20T19:33:38.613Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T19:33:38.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb3c05c0153b3911434b41"
+  },
+  "name": "superAdmin",
+  "email": "superAdmin@walla.com",
+  "password": "$2b$10$3ghIDhPFQt8e3hT3q9yhSu2a77I0q4LTfijvBQpDBUsxFIQbeIyCO",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-03-20T19:41:57.497Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T20:01:46.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb4115c0153b3911434b45"
+  },
+  "name": "member",
+  "email": "member@walla.com",
+  "password": "$2b$10$d3ZHLJX9rgv/.KasrhRJ/eN/.DKgxZXARgKAxxh2tJOYntzfMcz3q",
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-03-20T20:03:33.247Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T20:03:33.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb411cc0153b3911434b47"
+  },
+  "name": "user",
+  "email": "user@walla.com",
+  "password": "$2b$10$2sMKX8YqKFCJbJYy246qKeiVc7kSR3qp2vFT4OIV4TVd9A4HudonG",
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-03-20T20:03:40.872Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T20:03:40.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb4165eda901042922b6e1"
+  },
+  "name": "player",
+  "email": "player@walla.com",
+  "password": "$2b$10$M80fnHBMUhn/KYGHpNkpduHSXVifbUUfHWGPpixEoWDaHTXsCjQ2G",
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-03-20T20:04:53.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T20:04:53.667Z"
+  },
+  "__v": 0
+}]

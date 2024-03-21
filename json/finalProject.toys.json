@@ -1,0 +1,901 @@
+[{
+  "_id": {
+    "$oid": "65fb3a284b2f02defa612447"
+  },
+  "name": "teddy bear",
+  "info": "doll teddy bear",
+  "category": "doll",
+  "img_url": "",
+  "price": 17,
+  "createdAt": {
+    "$date": "2024-03-20T19:34:00.207Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T19:34:00.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb3bd7c0153b3911434b3f"
+  },
+  "name": "barbi",
+  "info": "barbi doll",
+  "category": "doll",
+  "img_url": "",
+  "price": 10,
+  "createdAt": {
+    "$date": "2024-03-20T19:41:11.003Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T19:41:11.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb4226eda901042922b6e4"
+  },
+  "name": "Tarazan",
+  "info": "Tarazan doll",
+  "category": "doll",
+  "img_url": "",
+  "price": 12,
+  "createdAt": {
+    "$date": "2024-03-20T20:08:06.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T20:08:06.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb4db4196e92d20febddc9"
+  },
+  "name": "pokemon",
+  "info": "console ",
+  "category": "console games",
+  "img_url": "",
+  "price": 35,
+  "createdAt": {
+    "$date": "2024-03-20T20:57:24.979Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T20:57:24.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb53a533c337293963db07"
+  },
+  "name": "LEGO Technic Monster Truck",
+  "info": "Off-road vehicle with a powerful engine and giant wheels.",
+  "category": "LEGO",
+  "img_url": "",
+  "price": 150,
+  "createdAt": {
+    "$date": "2024-03-20T21:22:45.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:22:45.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb53ad33c337293963db09"
+  },
+  "name": "Nerf N-Strike Elite Disruptor Blaster",
+  "info": "Stable and precise Nerf blaster with a firing range of up to 27 meters.",
+  "category": "Nerf",
+  "img_url": "",
+  "price": 80,
+  "createdAt": {
+    "$date": "2024-03-20T21:22:53.812Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:22:53.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb53bd33c337293963db0d"
+  },
+  "name": "Monopoly Classic Board Game",
+  "info": "Classic board game based on real estate and business, suitable for all ages.",
+  "category": "Board Game",
+  "img_url": "",
+  "price": 120,
+  "createdAt": {
+    "$date": "2024-03-20T21:23:09.435Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:23:09.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb53c333c337293963db0f"
+  },
+  "name": "Funko Pop! Star Wars Boba Fett",
+  "info": "A small and cute Pop! figure of Boba Fett from the Star Wars universe.",
+  "category": "Figures",
+  "img_url": "",
+  "price": 60,
+  "createdAt": {
+    "$date": "2024-03-20T21:23:15.316Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:23:15.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb541a33c337293963db11"
+  },
+  "name": "LEGO Star Wars Millennium Falcon",
+  "info": "Iconic spaceship from the Star Wars saga, featuring intricate details and moving parts.",
+  "category": "LEGO",
+  "img_url": "",
+  "price": 300,
+  "createdAt": {
+    "$date": "2024-03-20T21:24:42.486Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:24:42.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb542133c337293963db13"
+  },
+  "name": "LEGO City Passenger Train",
+  "info": "Electric passenger train set with realistic features and remote control.",
+  "category": "LEGO",
+  "img_url": "",
+  "price": 200,
+  "createdAt": {
+    "$date": "2024-03-20T21:24:49.823Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:24:49.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb542833c337293963db15"
+  },
+  "name": "LEGO Harry Potter Hogwarts Castle",
+  "info": "Detailed replica of Hogwarts Castle with towers, chambers, and iconic locations from the Harry Potter series.",
+  "category": "LEGO",
+  "img_url": "",
+  "price": 400,
+  "createdAt": {
+    "$date": "2024-03-20T21:24:56.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:24:56.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb542e33c337293963db17"
+  },
+  "name": "LEGO Technic Porsche 911",
+  "info": "Highly detailed replica of the Porsche 911 sports car, featuring working gearbox and suspension.",
+  "category": "LEGO",
+  "img_url": "",
+  "price": 250,
+  "createdAt": {
+    "$date": "2024-03-20T21:25:02.947Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:25:02.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb543433c337293963db19"
+  },
+  "name": "LEGO Creator Expert Taj Mahal",
+  "info": "Massive LEGO set featuring the iconic Taj Mahal, with intricate architectural details.",
+  "category": "LEGO",
+  "img_url": "",
+  "price": 600,
+  "createdAt": {
+    "$date": "2024-03-20T21:25:08.309Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:25:08.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb543c33c337293963db1b"
+  },
+  "name": "LEGO Ideas International Space Station",
+  "info": "Detailed model of the International Space Station, featuring authentic design and movable parts.",
+  "category": "LEGO",
+  "img_url": "",
+  "price": 100,
+  "createdAt": {
+    "$date": "2024-03-20T21:25:16.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:25:16.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb544133c337293963db1d"
+  },
+  "name": "LEGO Technic Lamborghini Sián FKP 37",
+  "info": "Authentic replica of the Lamborghini Sián FKP 37 supercar, with detailed interior and V12 engine.",
+  "category": "LEGO",
+  "img_url": "",
+  "price": 380,
+  "createdAt": {
+    "$date": "2024-03-20T21:25:21.822Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:25:21.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb544a33c337293963db1f"
+  },
+  "name": "LEGO Creator Expert Roller Coaster",
+  "info": "Buildable roller coaster set with working track, cars, and various amusement park features.",
+  "category": "LEGO",
+  "img_url": "",
+  "price": 220,
+  "createdAt": {
+    "$date": "2024-03-20T21:25:30.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:25:30.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb544e33c337293963db21"
+  },
+  "name": "LEGO Ideas Tree House",
+  "info": "Customizable treehouse set with interchangeable sections and natural elements.",
+  "category": "LEGO",
+  "img_url": "",
+  "price": 120,
+  "createdAt": {
+    "$date": "2024-03-20T21:25:34.264Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:25:34.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb545233c337293963db23"
+  },
+  "name": "LEGO Architecture Statue of Liberty",
+  "info": "Iconic landmark set featuring the Statue of Liberty, with a detailed pedestal and brick-built elements.",
+  "category": "LEGO",
+  "img_url": "",
+  "price": 80,
+  "createdAt": {
+    "$date": "2024-03-20T21:25:38.631Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:25:38.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb545733c337293963db25"
+  },
+  "name": "LEGO Star Wars Imperial Star Destroyer",
+  "info": "Massive Star Wars spaceship set, featuring a detailed bridge, hangar bay, and TIE Fighters.",
+  "category": "LEGO",
+  "img_url": "",
+  "price": 500,
+  "createdAt": {
+    "$date": "2024-03-20T21:25:43.817Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:25:43.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb545d33c337293963db27"
+  },
+  "name": "Nerf N-Strike Elite Disruptor Blaster",
+  "info": "Stable and precise Nerf blaster with a firing range of up to 27 meters.",
+  "category": "nerf",
+  "img_url": "",
+  "price": 80,
+  "createdAt": {
+    "$date": "2024-03-20T21:25:49.155Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:25:49.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb546533c337293963db29"
+  },
+  "name": "Nerf N-Strike Elite Strongarm Blaster",
+  "info": "Fast-firing Nerf blaster with rotating barrel and slam fire action.",
+  "category": "nerf",
+  "img_url": "",
+  "price": 70,
+  "createdAt": {
+    "$date": "2024-03-20T21:25:57.404Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:25:57.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb546933c337293963db2b"
+  },
+  "name": "Nerf Rival Artemis XVII-3000 Blaster",
+  "info": "High-capacity Nerf blaster with spring-action mechanism and easy-load magazine.",
+  "category": "nerf",
+  "img_url": "",
+  "price": 100,
+  "createdAt": {
+    "$date": "2024-03-20T21:26:01.681Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:26:01.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb547233c337293963db2d"
+  },
+  "name": "Nerf Modulus Regulator Blaster",
+  "info": "Customizable Nerf blaster with three firing modes and detachable components.",
+  "category": "nerf",
+  "img_url": "",
+  "price": 120,
+  "createdAt": {
+    "$date": "2024-03-20T21:26:10.777Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:26:10.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb547b33c337293963db2f"
+  },
+  "name": "Nerf N-Strike Mega TwinShock Blaster",
+  "info": "Double-barreled Nerf blaster with Mega Whistler darts and pump-action firing.",
+  "category": "nerf",
+  "img_url": "",
+  "price": 150,
+  "createdAt": {
+    "$date": "2024-03-20T21:26:19.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:26:19.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb548333c337293963db31"
+  },
+  "name": "Nerf Rival Nemesis MXVII-10K Blaster",
+  "info": "Fully motorized Nerf blaster with high-capacity hopper and rapid-fire action.",
+  "category": "nerf",
+  "img_url": "",
+  "price": 200,
+  "createdAt": {
+    "$date": "2024-03-20T21:26:27.291Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:26:27.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb548833c337293963db33"
+  },
+  "name": "Nerf N-Strike Elite Delta Trooper Blaster",
+  "info": "Versatile Nerf blaster with customizable stock, barrel extension, and tactical rail.",
+  "category": "nerf",
+  "img_url": "",
+  "price": 90,
+  "createdAt": {
+    "$date": "2024-03-20T21:26:32.954Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:26:32.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb548e33c337293963db35"
+  },
+  "name": "Nerf Zombie Strike FlipFury Blaster",
+  "info": "Double-barreled Nerf blaster with rotating drums and flip-open action.",
+  "category": "nerf",
+  "img_url": "",
+  "price": 60,
+  "createdAt": {
+    "$date": "2024-03-20T21:26:38.782Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:26:38.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb549533c337293963db37"
+  },
+  "name": "Nerf N-Strike Elite SurgeFire Blaster",
+  "info": "Rapid-fire Nerf blaster with rotating drum and slam fire action.",
+  "category": "nerf",
+  "img_url": "",
+  "price": 80,
+  "createdAt": {
+    "$date": "2024-03-20T21:26:45.201Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:26:45.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb549b33c337293963db39"
+  },
+  "name": "Nerf N-Strike Elite Triad EX-3 Blaster",
+  "info": "Compact Nerf blaster with three-dart capacity and easy-to-carry design.",
+  "category": "nerf",
+  "img_url": "",
+  "price": 40,
+  "createdAt": {
+    "$date": "2024-03-20T21:26:51.075Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:26:51.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb553a33c337293963db3f"
+  },
+  "name": "American Girl Doll",
+  "info": "High-quality doll representing diverse characters with customizable outfits and accessories.",
+  "category": "doll",
+  "img_url": "",
+  "price": 150,
+  "createdAt": {
+    "$date": "2024-03-20T21:29:30.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:29:30.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb553e33c337293963db41"
+  },
+  "name": "L.O.L. Surprise! Dolls",
+  "info": "Collectible dolls with surprise features, accessories, and outfits.",
+  "category": "doll",
+  "img_url": "",
+  "price": 20,
+  "createdAt": {
+    "$date": "2024-03-20T21:29:34.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:29:34.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb554533c337293963db43"
+  },
+  "name": "Baby Alive Doll",
+  "info": "Interactive doll that eats, drinks, wets, and speaks, providing a lifelike nurturing experience.",
+  "category": "doll",
+  "img_url": "",
+  "price": 50,
+  "createdAt": {
+    "$date": "2024-03-20T21:29:41.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:29:41.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb554b33c337293963db45"
+  },
+  "name": "Disney Princess Doll Set",
+  "info": "Set of Disney Princess dolls featuring beloved characters from classic animated films.",
+  "category": "doll",
+  "img_url": "",
+  "price": 80,
+  "createdAt": {
+    "$date": "2024-03-20T21:29:47.422Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:29:47.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb555233c337293963db47"
+  },
+  "name": "Monster High Dolls",
+  "info": "Fashion dolls inspired by monster characters, with unique styles and accessories.",
+  "category": "doll",
+  "img_url": "",
+  "price": 30,
+  "createdAt": {
+    "$date": "2024-03-20T21:29:54.376Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:29:54.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb555733c337293963db49"
+  },
+  "name": "Bratz Dolls",
+  "info": "Fashion dolls with distinct personalities and trendy outfits, popular among collectors.",
+  "category": "doll",
+  "img_url": "",
+  "price": 40,
+  "createdAt": {
+    "$date": "2024-03-20T21:29:59.126Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:29:59.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb556533c337293963db4b"
+  },
+  "name": "Cabbage Patch Kids Doll",
+  "info": "Classic dolls with soft bodies and unique adoption certificates, loved by generations of children.",
+  "category": "doll",
+  "img_url": "",
+  "price": 60,
+  "createdAt": {
+    "$date": "2024-03-20T21:30:13.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:30:13.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb556a33c337293963db4d"
+  },
+  "name": "My Little Pony Equestria Girls Dolls",
+  "info": "Dolls inspired by My Little Pony characters, with colorful hair and magical outfits.",
+  "category": "doll",
+  "img_url": "",
+  "price": 25,
+  "createdAt": {
+    "$date": "2024-03-20T21:30:18.639Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:30:18.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb556f33c337293963db4f"
+  },
+  "name": "Disney Frozen Doll Set",
+  "info": "Set of dolls featuring characters from Disney's Frozen, with elegant dresses and accessories.",
+  "category": "doll",
+  "img_url": "",
+  "price": 70,
+  "createdAt": {
+    "$date": "2024-03-20T21:30:23.933Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:30:23.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb557533c337293963db51"
+  },
+  "name": "Lottie Dolls",
+  "info": "Diverse range of dolls promoting positive body image and imaginative play for children.",
+  "category": "doll",
+  "img_url": "",
+  "price": 35,
+  "createdAt": {
+    "$date": "2024-03-20T21:30:29.476Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:30:29.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb557a33c337293963db53"
+  },
+  "name": "Rainbow High Fashion Dolls",
+  "info": "Fashion dolls with vibrant hair colors and stylish outfits, perfect for creative play.",
+  "category": "doll",
+  "img_url": "",
+  "price": 45,
+  "createdAt": {
+    "$date": "2024-03-20T21:30:34.197Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:30:34.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb559a33c337293963db55"
+  },
+  "name": "Remote Control Lamborghini Veneno",
+  "info": "High-speed remote control car modelled after the iconic Lamborghini Veneno supercar.",
+  "category": "Cars",
+  "img_url": "",
+  "price": 80,
+  "createdAt": {
+    "$date": "2024-03-20T21:31:06.809Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:31:06.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb55a233c337293963db57"
+  },
+  "name": "Hot Wheels Ultimate Garage",
+  "info": "Massive garage playset featuring multiple levels, tracks, and parking spots for Hot Wheels cars.",
+  "category": "Cars",
+  "img_url": "",
+  "price": 100,
+  "createdAt": {
+    "$date": "2024-03-20T21:31:14.215Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:31:14.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb55a633c337293963db59"
+  },
+  "name": "LEGO Technic Bugatti Chiron",
+  "info": "Advanced LEGO Technic set allowing you to build a detailed replica of the Bugatti Chiron sports car.",
+  "category": "Cars",
+  "img_url": "",
+  "price": 350,
+  "createdAt": {
+    "$date": "2024-03-20T21:31:18.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:31:18.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb55ad33c337293963db5b"
+  },
+  "name": "Disney Pixar Cars 3 Ultimate Florida Speedway Track Set",
+  "info": "Exciting race track set inspired by Disney Pixar's Cars 3 movie, featuring lightning-fast action.",
+  "category": "Cars",
+  "img_url": "",
+  "price": 120,
+  "createdAt": {
+    "$date": "2024-03-20T21:31:25.040Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:31:25.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb55b333c337293963db5d"
+  },
+  "name": "Tayo the Little Bus Die-Cast Cars",
+  "info": "Collection of die-cast cars featuring characters from the popular children's show Tayo the Little Bus.",
+  "category": "Cars",
+  "img_url": "",
+  "price": 25,
+  "createdAt": {
+    "$date": "2024-03-20T21:31:31.088Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:31:31.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb55ba33c337293963db5f"
+  },
+  "name": "Razor Crazy Cart XL",
+  "info": "Electric drift cart capable of reaching speeds up to 17 mph, providing thrilling spins and drifts.",
+  "category": "Cars",
+  "img_url": "",
+  "price": 500,
+  "createdAt": {
+    "$date": "2024-03-20T21:31:38.465Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:31:38.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb55c033c337293963db61"
+  },
+  "name": "Disney Pixar Cars 3 Die-Cast Vehicles",
+  "info": "Assortment of die-cast cars representing characters from Disney Pixar's Cars 3 movie.",
+  "category": "Cars",
+  "img_url": "",
+  "price": 10,
+  "createdAt": {
+    "$date": "2024-03-20T21:31:44.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:31:44.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb55c633c337293963db63"
+  },
+  "name": "Micro Machines World Packs",
+  "info": "Collection of miniature cars and vehicles from various themes, perfect for imaginative play.",
+  "category": "Cars",
+  "img_url": "",
+  "price": 15,
+  "createdAt": {
+    "$date": "2024-03-20T21:31:50.320Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:31:50.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb55cb33c337293963db65"
+  },
+  "name": "Anki Overdrive Starter Kit",
+  "info": "Interactive racing game featuring intelligent robot cars and flexible track pieces for customizable racing experiences.",
+  "category": "Cars",
+  "img_url": "",
+  "price": 150,
+  "createdAt": {
+    "$date": "2024-03-20T21:31:55.938Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:31:55.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb55d133c337293963db67"
+  },
+  "name": "Kid Trax Dodge Viper SRT Ride-On",
+  "info": "Battery-powered ride-on car modeled after the Dodge Viper SRT, offering realistic driving fun for kids.",
+  "category": "Cars",
+  "img_url": "",
+  "price": 200,
+  "createdAt": {
+    "$date": "2024-03-20T21:32:01.377Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:32:01.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb55d733c337293963db69"
+  },
+  "name": "Matchbox 50 Car Pack",
+  "info": "Large pack containing a variety of Matchbox cars for endless racing and storytelling adventures.",
+  "category": "Cars",
+  "img_url": "",
+  "price": 30,
+  "createdAt": {
+    "$date": "2024-03-20T21:32:07.370Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:32:07.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb55de33c337293963db6b"
+  },
+  "name": "Bburago Ferrari Race & Play Garage",
+  "info": "Garage playset with Ferrari cars, ramps, and accessories, offering hours of racing and parking fun.",
+  "category": "Cars",
+  "img_url": "",
+  "price": 60,
+  "createdAt": {
+    "$date": "2024-03-20T21:32:14.141Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T21:32:14.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fca0e1d530c3d65ffc426e"
+  },
+  "name": "Beyblade Burst Evolution SwitchStrike Battle Tower",
+  "info": "Enhance skills in intense Beyblade battles with the original battle tower.",
+  "category": "Beyblade",
+  "img_url": "",
+  "price": 200,
+  "createdAt": {
+    "$date": "2024-03-21T21:04:33.270Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T21:04:33.270Z"
+  },
+  "__v": 0
+}]
